@@ -1,4 +1,4 @@
-<h1 align="center">Hello Everyone 👋, I'm I am Poornima Rathnasinghe.</h1>
+<h1 align="center">Hello Everyone 👋, I'm Poornima Rathnasinghe.</h1>
 <h3 align="center">A passionate BICT Undergraduate at Uva Wellassa University of Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poornimarathnasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="poornimarathnasinghe" /> </p>
