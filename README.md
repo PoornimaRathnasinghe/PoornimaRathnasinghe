@@ -75,5 +75,5 @@
 ---
 
 <h3 align="center"> Thanks for visiting ❤️</h3>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=PoornimaRathnasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="PoornimaRathnasinghe"/></p>
+<img src="https://github.com/PoornimaRathnasinghe/PoornimaRathnasinghe/assets/138716502/0da819f9-9821-4019-a811-de80d4231d28" alt="PoornimaRathnasinghe"/>
 
