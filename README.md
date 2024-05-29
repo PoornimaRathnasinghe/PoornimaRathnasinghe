@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img  src = "https://github.com/PoornimaRathnasinghe/PoornimaRathnasinghe/assets/138716502/780a0551-899a-4360-8ede-e9931969403f" width = 100px></p>
 <h1 align="center">Hi, I'm Poornima 💜</h1>
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=550&lines=Passionate+BICT+Student;Exploring+the+Boundless+World+of+Technology;Always+learning+new+things" alt="Typing SVG" /></a>
