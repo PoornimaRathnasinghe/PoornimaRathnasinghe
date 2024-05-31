@@ -11,7 +11,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🧑‍🎓 I’m an Undergraduate at **Uva Wellassa University of Sri Lanka**
+- 👩🏾‍💻🎓 I’m an Undergraduate at **Uva Wellassa University of Sri Lanka**
 
 - 📫 How to reach me **poornimarathnasingha@gmail.com**
 
