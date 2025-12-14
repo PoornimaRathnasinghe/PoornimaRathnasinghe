@@ -36,7 +36,7 @@
 <td width="500px" height="100px" align="center">
  
 <p align="center">
-<a href="https://youtube.com/@poornimarathnasinghe?si=QOwL8Z6AigundA09" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="poornimarathnasinghe" height="40" width="40" /></a>
+<a href="https://youtube.com/@poornimarathnasinghe?si=QOwL8Z6AigundA09" target="blank"><img align="center" src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_youtube-sign.svg" alt="poornimarathnasinghe" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/in/poornima-rathnasinghe-ba517224b" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="poornima-rathnasinghe" height="40" width="40" /></a>
 <a href="https://www.facebook.com/poorni.3.R?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="poorni" height="40" width="40" /></a>
 <a href="https://www.instagram.com/poorii_81?igsh=ZGxlZXc3M2o0bmRx" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="poorii_81" height="40" width="40" /></a>
